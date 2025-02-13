@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a potential numeric overflow error. The program uses a PERFORM VARYING loop to increment a counter. If the counter exceeds its defined size, an overflow occurs.  The solution demonstrates how to handle this scenario.
